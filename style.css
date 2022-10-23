@@ -1,0 +1,121 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+#box-container{
+    margin: 0 auto;
+    width: 600px;
+}
+#main-container {
+    width: 600px; 
+    border: black 1px solid; 
+    background-color:#dbe4f5; 
+    text-align: center;
+       
+}
+#container {
+    display: flex; 
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'system-ui';    
+}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.color-container{
+    background-color: white;
+    padding-top: 20px;
+}
+.container h1{
+    color: rgb(84 84 216); 
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px; 
+    font-size: 40px;
+}  
+.container p {
+    font-size: 20px;
+    color: rgb(138, 82, 190);
+    font-weight: 600;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+.box {
+    width: 35px;
+    border-radius: 20px;
+    display: block;
+}
+
+.color-1 .box-1 {
+    height: 80px;
+    background-color: #ed1b24
+}
+
+.color-2 .box-2 {
+    height: 85px;
+    background-color: #f03d43
+}
+.color-3 .box-3 {
+    height: 90px;
+    background-color:#fb5765
+}
+.color-4 .box-4 {
+    height: 95px;
+    background-color:#f67d82
+}
+.color-5 .box-5 {
+    background-color: #f79ea0;
+    height: 100px;
+}
+.color-6 .box-6 {
+    background-color: #fabec0;
+    height: 105px;
+}
+.color-7 .box-7 {
+    background-color: #fcdfe1;
+    height: 110px;
+}
+.color-8 .box-8 {
+    background-color: #f2f2f2;
+    height: 115px;
+}
+.color-9 .box-9 {
+    background-color: #e0f3fa;
+    height: 110px;
+}
+.color-10 .box-10 {
+    background-color: #c2e7f7;
+    height: 105px;
+}
+.color-11 .box-11 {
+    background-color: #a3dbf4;
+    height: 100px;
+}
+.color-12 .box-12 {
+    background-color: #84cfee;
+    height: 95px;
+}
+.color-13 .box-13 {
+    background-color: #66c4ea;
+    height: 90px;
+}
+.color-14 .box-14 {
+    background-color: #48b7e5;
+    height: 85px;
+}
+.color-15 .box-15 {
+    background-color: #28abe3;
+    height: 80px;
+}
+
+
+
+ 
